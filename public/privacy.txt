@@ -1,0 +1,26 @@
+Privacy Policy
+
+At the moment, kupopuffs.com is a website for sharing my socials.
+
+I do not plan to collect, sell, or store your data.
+
+However, since this is hosted on Firebase, you, as the user
+will be tracked by Firebase for their own purposes.
+
+In which case, I refer you to Firebase's privacy policy
+
+https://firebase.google.com/support/privacy
+
+### Collecting and Using Your Personal Data ###
+* I don't.
+* If my website did, it may be on my host's behalf (Firebase, owned by Google)
+
+### Retention of your personal data ###
+* I don't
+
+### Delete your personal data ###
+* Please reach out to Firebase for this.
+* If this requires any action on my side for cooperation,
+  I'll happily oblige :)
+
+Updated: November 5, 2022
